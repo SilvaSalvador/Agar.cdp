@@ -1,4 +1,4 @@
-# Agar.pcd - A Distributed and Concurrent Game
+# Agar.cdp - A Distributed and Concurrent Game
 
 ## Overview
 Agar.pcd is a simplified version of the popular online game [Agar.io](https://pt.wikipedia.org/wiki/Agar.io), the goal of this project is to apply concepts of concurrency and distributed systems.
