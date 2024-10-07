@@ -36,7 +36,7 @@ Players compete in a distributed setting, absorbing energy from opponents to rea
 1. **Clone the Repository**:
    ```bash
    git clone git@github.com:SilvaSalvador/Agar.cdp.git
-2. **Build the Project**: Ensure you have the necessary build tools and dependencies installed. Compile the code using your preferred method (e.g., sbt, Maven, etc.).
+2. **Build the Project**: Ensure you have the necessary build tools and dependencies installed.
 
 3. **Run the Server**: Start the game server, which will manage all the game logic and communicate with remote clients.
 
